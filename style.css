@@ -69,3 +69,48 @@ h1 {
     padding: 8px 10px;
     border-radius: 5px;
 }
+
+/* recipe styles */
+.main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.main .recipe-card-btn {
+    margin: 10px 0;
+    padding: 8px 15px;
+}
+
+.main h3 {
+    margin: 15px 0;
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.left {
+    text-align: left;
+}
+
+.recipe-img {
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 25px auto;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;    
+}
+
+.recipe-ingredients ul li {
+    margin: 20px 0;
+}
+
+.recipe-steps h3 {
+    margin-top: 40px;
+}
+
+.recipe-steps ol li {
+    margin: 20px 0 20px 15px;
+}
+
